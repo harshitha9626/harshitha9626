@@ -1,4 +1,5 @@
 # 💫 About Me:
+Student at Chaitanya Bharathi Institute of Technology
 🔭 I’m currently working on improving my DSA skills and contributing to open-source projects<br><br>👯 I’m looking to collaborate on Java, DSA, and web development projects<br><br>🤝 I’m looking for help with open-source contributions and real-world project experience<br><br>🌱 I’m currently learning Data Structures & Algorithms, GitHub, and Java<br><br>💬 Ask me about DSA, Java, GitHub, and problem-solving<br><br>⚡ Fun fact: I enjoy turning complex coding concepts into simple visual explanations
 
 
